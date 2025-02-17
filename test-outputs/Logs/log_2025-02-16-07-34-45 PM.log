@@ -1,0 +1,2 @@
+[INFO] 16-02-2025 19:34:45 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case VerifyProductSortingFromAtoZStarted
+[INFO] 16-02-2025 19:34:48 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case VerifyProductSortingFromAtoZPassed

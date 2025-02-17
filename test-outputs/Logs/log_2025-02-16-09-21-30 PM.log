@@ -1,0 +1,4 @@
+[INFO] 16-02-2025 21:21:30 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case VerifyProductSortingFromAtoZ_TC019Started
+[INFO] 16-02-2025 21:21:33 [main] [Pages.P02_ProductsPage.ComparingProductSortingByName(P02_ProductsPage.java:150)] - Sorted Product names From Z to A [Test.allTheThings() T-Shirt (Red), Sauce Labs Onesie, Sauce Labs Fleece Jacket, Sauce Labs Bolt T-Shirt, Sauce Labs Bike Light, Sauce Labs Backpack]
+[INFO] 16-02-2025 21:21:33 [main] [Listeners.IInvokedMethodListenerClass.afterInvocation(IInvokedMethodListenerClass.java:19)] - Test Case VerifyProductSortingFromAtoZ_TC019Failed
+[ERROR] 16-02-2025 21:21:36 [main] [Utilities.Utility.taking_Full_Screenshot(Utility.java:250)] - test-outputs\ScreenShots\VerifyProductSortingFromAtoZ_TC019.png

@@ -1,0 +1,2 @@
+[INFO] 14-02-2025 14:49:05 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case clickOnCartIcon_TC018Started
+[INFO] 14-02-2025 14:49:14 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case clickOnCartIcon_TC018Passed

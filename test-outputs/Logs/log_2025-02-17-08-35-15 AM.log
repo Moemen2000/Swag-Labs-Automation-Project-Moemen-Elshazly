@@ -1,0 +1,2 @@
+[INFO] 17-02-2025 08:35:15 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case VerifyCloseSideMenu_TC022Started
+[INFO] 17-02-2025 08:35:18 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case VerifyCloseSideMenu_TC022Passed

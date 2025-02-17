@@ -1,0 +1,35 @@
+[INFO] 04-02-2025 15:58:10 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case errorMessageDisappearsAfterRefreshingLoginPage_TC012Started
+[INFO] 04-02-2025 15:58:11 [main] [Pages.P01_LoginPage.assertForDisplayedMessageCondition(P01_LoginPage.java:39)] - no such element: Unable to locate element: {"method":"css selector","selector":"[data-test='error']"}
+  (Session info: chrome=132.0.6834.160)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '23.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [60eed329d218b3e8963d6b3c1de1735e, findElement {value=[data-test='error'], using=css selector}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 132.0.6834.160, chrome: {chromedriverVersion: 132.0.6834.159 (2d77d3fc445..., userDataDir: C:\Users\moeme\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53640}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:53640/devtoo..., se:cdpVersion: 132.0.6834.160, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 60eed329d218b3e8963d6b3c1de1735e
+[INFO] 04-02-2025 15:58:11 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case errorMessageDisappearsAfterRefreshingLoginPage_TC012Passed
+[INFO] 04-02-2025 15:58:14 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case inValidLogin_TC002Started
+[INFO] 04-02-2025 15:58:15 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case inValidLogin_TC002Passed
+[INFO] 04-02-2025 15:58:18 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithEmptyPassword_TC007Started
+[INFO] 04-02-2025 15:58:19 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithEmptyPassword_TC007Passed
+[INFO] 04-02-2025 15:58:22 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithEmptyUsernameAndPassword_TC006Started
+[INFO] 04-02-2025 15:58:23 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithEmptyUsernameAndPassword_TC006Passed
+[INFO] 04-02-2025 15:58:26 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithInvalidUsernameAndValidPassword_TC003Started
+[INFO] 04-02-2025 15:58:26 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithInvalidUsernameAndValidPassword_TC003Passed
+[INFO] 04-02-2025 15:58:29 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithLockedOutUsername_TC005Started
+[INFO] 04-02-2025 15:58:30 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithLockedOutUsername_TC005Passed
+[INFO] 04-02-2025 15:58:33 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithSpacesBeforeCredentials_TC013Started
+[INFO] 04-02-2025 15:58:34 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithSpacesBeforeCredentials_TC013Passed
+[INFO] 04-02-2025 15:58:37 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithUpperUsernameAndPassword_TC009Started
+[INFO] 04-02-2025 15:58:38 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithUpperUsernameAndPassword_TC009Passed
+[INFO] 04-02-2025 15:58:41 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case loginWithValidUsernameAndInvalidPassword_TC004Started
+[INFO] 04-02-2025 15:58:42 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case loginWithValidUsernameAndInvalidPassword_TC004Passed
+[INFO] 04-02-2025 15:58:45 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case pressingEnterAfterEnteringUsernameAndPassword_TC010Started
+[INFO] 04-02-2025 15:58:47 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case pressingEnterAfterEnteringUsernameAndPassword_TC010Passed
+[INFO] 04-02-2025 15:58:50 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case userRemainsLoggedInAfterRefreshProductsPage_TC011Started
+[INFO] 04-02-2025 15:58:54 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case userRemainsLoggedInAfterRefreshProductsPage_TC011Passed
+[INFO] 04-02-2025 15:58:56 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case validLogin_TC001Started
+[INFO] 04-02-2025 15:58:59 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case validLogin_TC001Passed
+[INFO] 04-02-2025 15:59:02 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifyPasswordFieldIsSecureAndMasked_TC008Started
+[INFO] 04-02-2025 15:59:02 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifyPasswordFieldIsSecureAndMasked_TC008Passed

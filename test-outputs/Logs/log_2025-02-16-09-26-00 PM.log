@@ -1,0 +1,3 @@
+[INFO] 16-02-2025 21:26:00 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case VerifyProductSortingFromAtoZ_TC019Started
+[INFO] 16-02-2025 21:26:02 [main] [Pages.P02_ProductsPage.ComparingProductSortingByName(P02_ProductsPage.java:150)] - Sorted Product names From Z to A [Test.allTheThings() T-Shirt (Red), Sauce Labs Onesie, Sauce Labs Fleece Jacket, Sauce Labs Bolt T-Shirt, Sauce Labs Bike Light, Sauce Labs Backpack]
+[INFO] 16-02-2025 21:26:02 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case VerifyProductSortingFromAtoZ_TC019Passed

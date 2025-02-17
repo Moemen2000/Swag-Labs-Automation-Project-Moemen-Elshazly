@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Smoke testing">
+    <test name="Login Page testing">
+        <classes>
+            <class name="Tests.TCs_LoginPage">
+                <methods>
+
+                </methods>
+            </class>
+            <class name="Tests.TCs_LoginPage">
+                <methods>
+                    
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
