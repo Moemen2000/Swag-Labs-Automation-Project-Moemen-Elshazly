@@ -1,0 +1,24 @@
+[INFO] 18-02-2025 09:27:59 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case addingRandomProductsToCart_TC017Started
+[INFO] 18-02-2025 09:28:01 [main] [Pages.P02_ProductsPage.addRandomProducts(P02_ProductsPage.java:85)] - randomNumber 2
+[INFO] 18-02-2025 09:28:01 [main] [Pages.P02_ProductsPage.addRandomProducts(P02_ProductsPage.java:85)] - randomNumber 4
+[INFO] 18-02-2025 09:28:01 [main] [Pages.P02_ProductsPage.addRandomProducts(P02_ProductsPage.java:85)] - randomNumber 5
+[INFO] 18-02-2025 09:28:01 [main] [Pages.P02_ProductsPage.getNumberOfSelectedProducts(P02_ProductsPage.java:68)] - Number of selected products is : 3
+[INFO] 18-02-2025 09:28:01 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case addingRandomProductsToCart_TC017Passed
+[INFO] 18-02-2025 09:28:05 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case checkingNumberOfSelectedProducts_TC016Started
+[INFO] 18-02-2025 09:28:07 [main] [Pages.P02_ProductsPage.addAllProductsToCart(P02_ProductsPage.java:45)] - Number of all products is : 6
+[INFO] 18-02-2025 09:28:08 [main] [Pages.P02_ProductsPage.getNumberOfSelectedProducts(P02_ProductsPage.java:68)] - Number of selected products is : 6
+[INFO] 18-02-2025 09:28:08 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case checkingNumberOfSelectedProducts_TC016Passed
+[INFO] 18-02-2025 09:28:12 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case clickOnCartIcon_TC018Started
+[INFO] 18-02-2025 09:28:14 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case clickOnCartIcon_TC018Passed
+[INFO] 18-02-2025 09:28:18 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifyCloseSideMenu_TC021Started
+[INFO] 18-02-2025 09:28:21 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifyCloseSideMenu_TC021Passed
+[INFO] 18-02-2025 09:28:25 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifyOpenSideMenu_TC021Started
+[INFO] 18-02-2025 09:28:27 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifyOpenSideMenu_TC021Passed
+[INFO] 18-02-2025 09:28:31 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifyProductSortingByName_TC019Started
+[INFO] 18-02-2025 09:28:33 [main] [Pages.P02_ProductsPage.ComparingProductSortingByName(P02_ProductsPage.java:157)] - Sorted Product names From Z to A [Test.allTheThings() T-Shirt (Red), Sauce Labs Onesie, Sauce Labs Fleece Jacket, Sauce Labs Bolt T-Shirt, Sauce Labs Bike Light, Sauce Labs Backpack]
+[INFO] 18-02-2025 09:28:33 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifyProductSortingByName_TC019Passed
+[INFO] 18-02-2025 09:28:36 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifyProductSortingByPrice_TC020Started
+[INFO] 18-02-2025 09:28:39 [main] [Pages.P02_ProductsPage.ComparingProductSortingByPrice(P02_ProductsPage.java:188)] - Sorted Product Price From (low to high) [7.99, 9.99, 15.99, 15.99, 29.99, 49.99]
+[INFO] 18-02-2025 09:28:39 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifyProductSortingByPrice_TC020Passed
+[INFO] 18-02-2025 09:28:43 [main] [Listeners.ITestListenerClass.onTestStart(ITestListenerClass.java:10)] - Test Case verifySuccessfulLogout_TC022Started
+[INFO] 18-02-2025 09:28:46 [main] [Listeners.ITestListenerClass.onTestSuccess(ITestListenerClass.java:14)] - Test Case verifySuccessfulLogout_TC022Passed

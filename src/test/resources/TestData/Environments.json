@@ -1,0 +1,15 @@
+{
+  "DRIVER": "chrome",
+  "BASE_URL": "https://www.saucedemo.com/v1/index.html",
+  "PRODUCTS_PAGE": "https://www.saucedemo.com/v1/inventory.html",
+  "CART_ICON_PAGE": "https://www.saucedemo.com/v1/cart.html",
+  "VALID_USERNAME": "standard_user",
+  "INVALID_USERNAME": "moemen_user",
+  "LockedOut_Username": "locked_out_user",
+  "VALID_PASSWORD": "secret_sauce",
+  "INVALID_PASSWORD": "moemen123",
+  "VisibleText1": "Name (A to Z)",
+  "VisibleText2": "Name (Z to A)",
+  "VisibleText3": "Price (low to high)",
+  "VisibleText4": "Price (high to low)"
+}
